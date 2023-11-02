@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "600 Beta - Version 14",
+  "FStringFlagUpdateVersion": "MIRA_V4",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -32,7 +32,7 @@
   "DFIntClusterCompressionLevel": 2,
   "DFIntNetworkSchemaCompressionRatio": 18,
   "FFlagHandleAltEnterFullscreenManually": false,
-  "FFlagEnableQuickGameLaunch": true,
+  "FFlagEnableQuickGameLaunch": false,
   "FFlagPreloadAllFonts": true,
   "FFlagPreloadMinimalFonts": true,
   "FFlagPreloadTextureItemsOption4": true,
