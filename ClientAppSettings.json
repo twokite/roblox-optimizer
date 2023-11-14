@@ -28,7 +28,6 @@
   "FFlagEnableCameraByDefault": "False",
   "DFFlagVideoCaptureServiceEnabled": "False",
   "DFFlagVoiceChatClientJoinMetrics": "False",
-  "FFlagVoiceChatLogAudibilityChangesV2": "False",
   "FFlagVoiceChatLogAudibilityChangesV2" "False",
   "DFFlagVoiceChatUseSpeakerSelection": "True",
   "DFFlagVoiceChatEnableEventLogging": "False",
