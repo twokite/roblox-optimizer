@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "MIRA_V4",
+  "FStringFlagUpdateVersion": "Version - 195",
   "FIntTerrainOTAMaxTextureSize": "1024",
   "FIntUITextureMaxRenderTextureSize": "1024",
   "FIntMeshContentProviderForceCacheSize": "268435456",
@@ -27,6 +27,9 @@
   "DFIntPredictedOOMPercent": "0",
   "FFlagEnableCameraByDefault": "False",
   "DFFlagVideoCaptureServiceEnabled": "False",
+  "DFFlagVoiceChatClientJoinMetrics": "False",
+  "FFlagVoiceChatLogAudibilityChangesV2": "False",
+  "FFlagVoiceChatLogAudibilityChangesV2" "False",
   "DFFlagVoiceChatUseSpeakerSelection": "True",
   "DFFlagVoiceChatEnableEventLogging": "False",
   "DFFlagVoiceChatUseMicSelection": "True",
