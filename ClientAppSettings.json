@@ -42,6 +42,7 @@
 	"DFFlagVoiceChatUseMicSelection": "True",
 	"DFFlagVoiceChatThreadFactory": "False",
 	"DFFlagVoiceChatIsActiveChecks": "False",
+	"FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
 	"FFlagVoiceChatResizeAndNotReserve": "False",
 	"FFlagEnableVoiceChatPlayersListV2": "True",
 	"FFlagVoiceChatLogAudibilityChangesV2": "False",
