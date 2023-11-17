@@ -59,8 +59,6 @@
     "DFFlagUserIdPlayerNameCacheEnabled": "False",
     "DFFlagVideoCaptureServiceEnabled": "False",
     "DFFlagVoiceChat2": "False",
-    "DFFlagVoiceChat3": "True",
-    "DFFlagVoiceChat4": "False",
     "DFFlagVoiceChatCheckMicActivity": "False",
     "DFFlagVoiceChatClientJoinMetrics": "False",
     "DFFlagVoiceChatDisableBuiltInAECForWindows": "False",
