@@ -81,6 +81,7 @@
     "DFFlagVoiceChatEnableVoiceChatPlayersListOptimization": "True",
     "DFFlagVoiceChatIsActiveChecks": "False",
     "DFFlagVoiceChatLogAudibilityChangesV2": "False",
+    "DFFlagVoiceChatSignalrCheck": "False",
     "DFFlagVoiceChatThreadFactory": "False",
     "DFFlagVoiceChatTrackPlayerMicActivity": "False",
     "DFFlagVoiceChatTrackSessionStats": "False",
