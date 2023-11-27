@@ -77,6 +77,7 @@
     "DFFlagVoiceChatEnableJoinOptionWithMuteState": "True",
     "DFFlagVoiceChatEnablePlayerModeratedSignal": "False",
     "DFFlagVoiceChatEnableRateControl": "False",
+    "DFFlagVoiceChatEnableRccV2ControlPlane": "False",
     "DFFlagVoiceChatFixWorkerThreadName": "False",
     "DFFlagVoiceChatLeaveNotify": "True",
     "DFFlagVoiceChatCallbackLogFix": "False",
