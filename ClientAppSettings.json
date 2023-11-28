@@ -23,7 +23,7 @@
     "DFIntTelegrafHTTPTransportHundredthsPercent": "0",
     "DFIntUITextureMaxRenderTextureSize": "1024",
     "DFIntVoiceChatCheckMicActivityMs": "120",
-    "DFIntVoiceChatJoinTimeoutMs": "5000",
+    "DFIntVoiceChatJoinTimeoutMs": "17e17",
     "DFIntVoiceChatMaxAvgBitrate": "32000",
     "DFIntWriteFullDmpPercent": "0",
     "DFLogBatchAssetApiLog": "3",
