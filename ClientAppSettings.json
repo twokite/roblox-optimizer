@@ -53,6 +53,7 @@
     "DFFlagESGamePerfMonitorEnabled": "False",
     "DFFlagFastGPULightCulling3": "True",
     "DFFlagFixGraphicsQuality": "False",
+    "DFFlagHideProxySettings": "False",
     "DFFlagHttpCacheCleanBasedOnMemory": "True",
     "DFFlagPredictedOOM": "False",
     "DFFlagQueueDataPingFromSendData": "True",
