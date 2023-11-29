@@ -125,6 +125,7 @@
     "FFlagAdServiceEnabled": "False",
     "FFlagAddUserIdToSessionTracking": "False",
     "FFlagCommitToGraphicsQualityFix": "False",
+    "FFlagEnableAccessibilitySettingsInExperienceMenu2": "True",
     "FFlagEnableAdsAPI": "False",
     "FFlagEnableBatteryStateLogger": "False",
     "FFlagEnableGCapsHardwareTelemetry": "False",
