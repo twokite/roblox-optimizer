@@ -179,8 +179,5 @@
     "FStringGamesUrlPath": "/games/",
     "FStringImmersiveAdsUniverseWhitelist": "0",
     "FStringPerformanceSendMeasurementAPISubdomain": "opt-out",
-    "FStringUniverseCategoryAnalyticsPayload": "opt-out",
-    "FStringImmersiveAdsUniverseWhitelist": "0",
-    "FStringPerformanceSendMeasurementAPISubdomain": "opt-out",
     "FStringUniverseCategoryAnalyticsPayload": "opt-out"
 }
