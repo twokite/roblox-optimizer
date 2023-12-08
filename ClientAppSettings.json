@@ -48,7 +48,7 @@
     "DFFlagEnableGCapsHardwareTelemetry": "False",
     "DFFlagEnableHardwareTelemetry": "False",
     "FFlagEnableInGameMenuControls": "False",
-    "FFlagEnableInGameMenuModernization": "False",
+    "FFlagEnableInGameMenuModernization": "True",
     "FFlagEnableMenuModernizationABTest": "True",
     "FFlagEnableMenuModernizationABTest2": "True",
     "DFFlagEnableLightstepReporting2": "False",
