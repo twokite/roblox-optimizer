@@ -47,6 +47,7 @@
     "DFFlagEnableFmodErrorsTelemetry": "False",
     "DFFlagEnableGCapsHardwareTelemetry": "False",
     "DFFlagEnableHardwareTelemetry": "False",
+    "FFlagEnableInGameMenuControls": "False",
     "DFFlagEnableLightstepReporting2": "False",
     "DFFlagEnableNewJoinCounter": "False",
     "DFFlagEnableMemProfilingOutsideClient": "False",
