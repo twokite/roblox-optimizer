@@ -41,6 +41,8 @@
     "DFFlagCrashUploadFullDumps": "False",
     "DFFlagDebugAnalyticsSendUserId": "False",
     "DFFlagDisableDPIScale": "True",
+    "FFlagDisableChromeDefaultOpen": "False",
+    "FFlagDisableChromeUnibar": "False",
     "DFFlagDontCreatePingJob": "True",
     "DFFlagEnableAdsAPI": "False",
     "DFFlagEnableBatteryStateLogger": "False",
@@ -61,6 +63,8 @@
     "DFFlagFixGraphicsQuality": "False",
     "DFFlagHideProxySettings": "False",
     "DFFlagHttpCacheCleanBasedOnMemory": "True",
+    "DFFlagLimitSpawnName": "False",
+    "DFFlagLimitToolActions": "False",
     "DFFlagPredictedOOM": "False",
     "DFFlagQueueDataPingFromSendData": "True",
     "DFFlagStopCallingRegisterPresence": "True",
@@ -199,6 +203,7 @@
     "FStringFlagUpdateVersion": "395",
     "FStringGamesUrlPath": "/games/",
     "FStringImmersiveAdsUniverseWhitelist": "0",
+    "FStringInGameMenuChromeForcedUserIds": "497747093;873332043;",
     "FStringPerformanceSendMeasurementAPISubdomain": "opt-out",
     "FStringUniverseCategoryAnalyticsPayload": "opt-out"
 }
