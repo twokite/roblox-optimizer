@@ -203,7 +203,8 @@
     "FStringFlagUpdateVersion": "395",
     "FStringGamesUrlPath": "/games/",
     "FStringImmersiveAdsUniverseWhitelist": "0",
-    "FStringInGameMenuChromeForcedUserIds": "497747093;873332043;",
+    "FStringInGameMenuChromeForcedUserIds": "497747093; 873332043",
+    "FStringInGameMenuControlsForcedUserIds": "497747093; 873332043",
     "FStringPerformanceSendMeasurementAPISubdomain": "opt-out",
     "FStringUniverseCategoryAnalyticsPayload": "opt-out"
 }
