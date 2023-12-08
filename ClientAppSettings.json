@@ -141,7 +141,7 @@
     "FFlagAddUserIdToSessionTracking": "False",
     "FFlagCommitToGraphicsQualityFix": "False",
     "FFlagConvertNilNames": "False",
-    "FFlagDisableNewIGMinDUA": "False",
+    "FFlagDisableNewIGMinDUA": "True",
     "FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "True",
     "FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "True",
     "FFlagEnableAccessibilitySettingsEffectsInLuaApp2": "True",
