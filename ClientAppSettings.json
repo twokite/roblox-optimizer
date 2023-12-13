@@ -170,7 +170,7 @@
 	"FFlagLuaAppNilUserPresenceFix": "False",
 	"FFlagLuaVoiceChatAnalyticsUseCounterV2": "False",
 	"FFlagLuaVoiceChatAnalyticsUseEventsV2": "False",
-	"FFlagNewLightAttenuation": "True",
+	"FFlagNewLightAttenuation": "False",
 	"FFlagNotificationsExperienceDetailsUpdate3": "False",
 	"FFlagPreloadAllFonts": "True",
 	"FFlagPreloadTextureItemsOption4": "True",
