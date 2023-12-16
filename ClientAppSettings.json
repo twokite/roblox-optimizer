@@ -124,7 +124,7 @@
 	"FFlagAdServiceEnabled": "False",
 	"FFlagAddUserIdToSessionTracking": "False",
 	"FFlagCommitToGraphicsQualityFix": "False",
-	"FFlagConvertNames": "False",
+	"FFlagConvertNames": "True",
 	"FFlagDebugDisplayFPS": "false",
 	"FFlagDebuggerV2BetaFeature": "True",
 	"FFlagDebugSkyGray": "false",
