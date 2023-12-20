@@ -159,7 +159,7 @@
 	"FFlagExperienceLaunchTelemetry": "False",
 	"FFlagHandleAltEnterFullscreenManually": "False",
 	"FFlagLocServicePerformanceAnalyticsEnabled": "False",
-	"FFlagLuaAppAddPresenceCounts": "0",
+	"FFlagLuaAppAddPresenceCounts": "54",
 	"FFlagLuaAppHomeJoinYourFriends5": "False",
 	"FFlagLuaAppHomeJoinYourFriendsAlwaysWithFindFriends": "False",
 	"FFlagLuaAppHomeJoinYourFriendsDesktop": "False",
