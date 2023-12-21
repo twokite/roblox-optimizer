@@ -102,7 +102,7 @@
 	"DFIntUITextureMaxRenderTextureSize": "1024",
 	"DFIntVoiceChatCheckMicActivityMs": "0",
 	"DFIntVoiceChatJoinTimeoutMs": "17e17",
-	"DFIntVoiceChatMaxAvgBitrate": "32000",
+	"DFIntVoiceChatMaxAvgBitrate": "21000",
 	"DFIntVoiceChatReportTaskStatsIntervalMs": "0",
 	"DFIntWriteFullDmpPercent": "0",
 	"DFLogBatchAssetApiLog": "3",
