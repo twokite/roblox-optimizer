@@ -73,7 +73,6 @@
 	"DFFlagVoiceChatUseMicSelection": "False",
 	"DFFlagVoiceChatUseMicSelection2": "True",
 	"DFFlagVoiceChatUseSpeakerSelection": "True",
-	"DFFlagVoiceChatVerifyUserUpdatesByMatchingV2": "False",
 	"DFIntAbuseReportScreenshotMaxSize": "0",
 	"DFIntBootstrapperTelemetryReportingHundredthsPercentage": "0",
 	"DFIntBrowserTrackerApiDeviceInitializeRolloutPercentage": "0",
