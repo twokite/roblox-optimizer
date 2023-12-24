@@ -68,7 +68,7 @@
 	"DFFlagVoiceChatSignalingPriorityEnabled": "False",
 	"DFFlagVoiceChatSignalrCheck": "False",
 	"DFFlagVoiceChatThreadFactory": "False",
-	"DFFlagVoiceChatTrackPlayerMicActivity": "False",
+	"DFFlagVoiceChatTrackPlayerMicActivity": "True",
 	"DFFlagVoiceChatTrackSessionStats": "False",
 	"DFFlagVoiceChatUseMicSelection": "False",
 	"DFFlagVoiceChatUseMicSelection2": "True",
