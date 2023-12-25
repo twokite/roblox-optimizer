@@ -201,7 +201,7 @@
 	"FIntLinkBrowserTrackerToDeviceRollout": "0",
 	"FIntLmsClientRollout": "0",
 	"FIntMeshContentProviderForceCacheSize": "268435456",
-	"FIntRenderShadowIntensity": "10",
+	"FIntRenderShadowIntensity": "1",
 	"FIntReportDeviceInfoRollout": "0",
 	"FIntStartupInfluxHundredthsPercentage": "0",
 	"FIntTaskSchedulerTargetFps": "165",
