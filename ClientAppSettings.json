@@ -8,7 +8,7 @@
 	"DFFlagCommitToGraphicsQualityFix": "False",
 	"DFFlagCrashUploadFullDumps": "False",
 	"DFFlagDebugAnalyticsSendUserId": "False",
-	"DFFlagDebugPauseVoxelizer": "True",
+	"DFFlagDebugPauseVoxelizer": "False",
 	"DFFlagDebugRenderForceTechnologyVoxel": "True",
 	"DFFlagDisableDPIScale": "True",
 	"DFFlagDontCreatePingJob": "True",
