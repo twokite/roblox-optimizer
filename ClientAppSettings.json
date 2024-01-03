@@ -199,7 +199,6 @@
   "FFlagEnableVoiceChatVoiceUISync": "True",
   "FFlagEnableVoicePromptReasonText": "True",
   "FFlagEnableVoiceRccCheck": "False",
-  "FFlagEnableUniveralVoiceToasts": "True",
   "FFlagEventNotificationsModal": "False",
   "FFlagExperienceInviteNotification": "False",
   "FFlagExperienceJoinAttemptId_v3": "False",
