@@ -201,7 +201,7 @@
   "FFlagEnableVoiceChatStorybookFix": "True",
   "FFlagEnableVoiceChatVoiceUISync": "True",
   "FFlagEnableVoicePromptReasonText": "True",
-  "FFlagEnableVoiceRccCheck": "False",
+  "FFlagEnableVoiceRccCheck": "True",
   "FFlagEnableUniveralVoiceToasts": "True",
   "FFlagEventNotificationsModal": "False",
   "FFlagExperienceInviteNotification": "False",
