@@ -239,7 +239,7 @@
   "FFlagUserHandleFriendJoinNotifierOnClient": "False",
   "FFlagUserIsChatTranslationEnabled": "True",
   "FFlagUserIsChatTranslationEnabled2": "True",
-  "FFlagVoiceActivityDetectorEnabled": "False",
+  "FFlagVoiceActivityDetectorEnabled": "True",
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
   "FFlagVoiceChatExposeSessionId": "False",
