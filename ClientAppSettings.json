@@ -4,6 +4,7 @@
   "DFFlagAddUserIdToSessionTracking": "False",
   "DFFlagAnimationClipMemCacheEnabled": "True",
   "DFFlagBrowserTrackerIdTelemetryEnabled": "False",
+  "DFFlagBypassCallToIXP": "True",
   "DFFlagClientBaseNetworkMetrics": "False",
   "DFFlagCommitToGraphicsQualityFix": "False",
   "DFFlagCrashUploadFullDumps": "False",
