@@ -51,7 +51,7 @@
   "DFFlagVoiceChatClientJoinMetrics": "False",
   "DFFlagVoiceChatDisableBuiltInAECForWindows": "False",
   "DFFlagVoiceChatDisableNativeHttpRetry": "True",
-  "DFFlagVoiceChatEnableApiSecurityCheck": "True",
+  "DFFlagVoiceChatEnableApiSecurityCheck": "False",
   "DFFlagVoiceChatEnableDTX": "False",
   "DFFlagVoiceChatEnableEndpointErrorLogging": "False",
   "DFFlagVoiceChatEnableEventCounters2": "False",
