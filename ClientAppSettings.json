@@ -158,6 +158,7 @@
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "FFlagDebugDisplayFPS": "False",
   "FFlagDebuggerV2BetaFeature": "True",
+  "FFlagDebugForceFutureIsBrightPhase2": "False",
   "FFlagDebugForceFutureIsBrightPhase3": "False",
   "FFlagDebugSkyGray": "True",
   "FFlagDebugUseCustomUnfilteredChat": "True",
