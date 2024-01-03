@@ -169,7 +169,7 @@
   "FFlagDisableChromeUnibar": "False",
   "FFlagDisableNewIGMinDUA": "True",
   "FFlagDisablePostFx": "True",
-  "FFlagDisablePrefetchProtocol": "True",
+  "FFlagDisablePrefetchProtocol": "False",
   "FFlagDisableSelfViewReactingToSetCoreGuiEnabled": "True",
   "FFlagDontAutoenrollBetaFeature": "False",
   "FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "True",
