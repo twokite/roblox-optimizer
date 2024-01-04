@@ -3,6 +3,7 @@
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagEnableLightstepReporting2": "False",
   "DFFlagVoiceChatAutoTest": "True",
+  "DFFlagVoiceChatObserverFix": "False",
   "DFIntCanHideGuiGroupId": "32806861",
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
   "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
