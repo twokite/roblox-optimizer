@@ -9,7 +9,7 @@
   "DFStringAltHttpPointsReporterUrl": "https://opt-out.roblox.com",
   "DFStringAltTelegrafAddress": "127.0.0.1",
   "DFStringAltTelegrafHTTPTransportUrl": "https://opt-out.roblox.com",
-  "DFStringAnalyticsEventStreamUrlEndpoint": "https://opt-out.roblox.com"
+  "DFStringAnalyticsEventStreamUrlEndpoint": "https://opt-out.roblox.com",
   "DFStringCrashUploadToBacktraceBaseUrl": "https://opt-out.roblox.com",
   "DFStringHttpPointsReporterUrl": "https://opt-out.roblox.com",
   "DFStringLightstepHTTPTransportUrlHost": "https://opt-out.roblox.com",
