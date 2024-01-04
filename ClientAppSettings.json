@@ -117,7 +117,7 @@
   "DFIntReportDeviceInfoRollout": "0",
   "DFIntRunningBaseAltitudeD": "70",
   "DFIntRunningBaseAltitudeP": "2400",
-  "DFIntRunningBaseOrientationP": "200",
+  "DFIntRunningBaseOrientationP": "240",
   "DFIntS2PhysicsSenderRate": "250",
   "DFIntStartupInfluxHundredthsPercentage": "0",
   "DFIntStartupTracingInfluxRollout": "0",
