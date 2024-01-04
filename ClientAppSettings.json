@@ -38,7 +38,7 @@
   "DFFlagEnableMemProfilingStorePlaceId": "False",
   "DFFlagEnableNewJoinCounter": "False",
   "DFFlagEnableTCSChatTranslation": "True",
-  "DFFlagEnableTCSChatTranslationABTest: "True",
+  "DFFlagEnableTCSChatTranslationABTest": "True",
   "DFFlagEnableVisibilityService": "True",
   "DFFlagEphemeralCounterInfluxReportingEnabled": "False",
   "DFFlagFastGPULightCulling3": "True",
