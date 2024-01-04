@@ -160,6 +160,7 @@
   "FFlagClearVoiceStateOnRejoin": "True",
   "FFlagCommitToGraphicsQualityFix": "False",
   "FFlagConvertNames": "True",
+  "FFlagControlBetaBadgeWithGuac": "False",
   "FFlagDebugAvatarTracking": "False",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
