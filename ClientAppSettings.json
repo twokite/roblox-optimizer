@@ -254,6 +254,7 @@
   "FFlagUserIsChatTranslationEnabled2": "True",
   "FFlagVoiceActivityDetectorEnabled": "False",
   "FFlagVoiceBetaBadge": "False",
+  "FFlagVoiceChatDoAudibilityLogging": "False",
   "FFlagVoiceChatDUARGate": "False",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
   "FFlagVoiceChatExposeSessionId": "False",
