@@ -101,7 +101,7 @@
   "DFIntCanHideGuiGroupId": "32806861",
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
   "DFIntCrashReportingHundredthsPercentage": "0",
-  "DFIntCrashUploadFullDumps": "False",
+  "DFIntCrashUploadFullDumps": "0",
   "DFIntCrashUploadToBacktracePercentage": "0",
   "DFIntDetectCrashEarlyPercentage": "0",
   "DFIntGameJoinFlowTelemetryThrottle": "0",
