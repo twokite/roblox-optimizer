@@ -163,6 +163,7 @@
   "FFlagCommitToGraphicsQualityFix": "False",
   "FFlagConvertNames": "True",
   "FFlagControlBetaBadgeWithGuac": "False",
+  "FFlagDebugAllowControlButtonsNoVoiceChat": "True",
   "FFlagDebugAvatarTracking": "False",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
