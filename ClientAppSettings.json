@@ -50,6 +50,7 @@
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatMultistreamSubscriptionsV3": "False",
   "FFlagVoiceChatResizeAndNotReserve": "False",
+  "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FFlagVoiceUserAgency3": "False",
   "FIntVoiceUsersInteractionExpiryTimeSeconds": "0",
   "FLogNetwork": "NetworkZCS",
