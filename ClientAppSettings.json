@@ -1,6 +1,8 @@
 {
   "DFFlagClientBaseNetworkMetrics": "False",
   "DFFlagDisableFastLogTelemetry": "True",
+  "DFFlagDebugAnalyticsSendUserId": "False",
+  "DFFlagDebugPerfMode": "True",
   "DFFlagEnableLightstepReporting2": "False",
   "DFFlagVoiceChatAutoTest": "True",
   "DFFlagVoiceChatEnableEventCounters3": "False",
