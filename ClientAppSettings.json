@@ -53,6 +53,7 @@
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
+  "FFlagUserRoactBubbleChatBeta": "True",
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatMultistreamSubscriptionsV3": "False",
   "FFlagVoiceChatResizeAndNotReserve": "False",
