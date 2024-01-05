@@ -3,6 +3,7 @@
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagDebugAnalyticsSendUserId": "False",
   "DFFlagDebugPerfMode": "True",
+  "DFFlagEnableDeviceCountryCode": "False",
   "DFFlagEnableLightstepReporting2": "False",
   "DFFlagVoiceChatAutoTest": "True",
   "DFFlagVoiceChatEnableEventCounters3": "False",
