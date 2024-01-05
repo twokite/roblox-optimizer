@@ -54,7 +54,7 @@
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FFlagVoiceUserAgency3": "False",
-  "FIntVoiceUsersInteractionExpiryTimeSeconds": "0",
+  "FIntVoiceUsersInteractionExpiryTimeSeconds": "300",
   "FLogNetwork": "NetworkZCS",
   "FLogVoiceChatLogs": "VoiceZCS",
   "FStringCoreScriptBacktraceErrorUploadToken": "https://opt-out.roblox.com",
