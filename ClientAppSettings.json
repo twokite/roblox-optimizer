@@ -14,6 +14,7 @@
   "DFIntCanHideGuiGroupId": "32806861",
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": "0",
   "DFIntLightstepHTTPTransportHundredthsPercent2": "0",
+  "DFIntRunningBaseOrientationP": "200",
   "DFIntS2PhysicsSenderRate": "100",
   "DFIntTaskSchedulerTargetFps": "165",
   "DFIntVoiceChatAudibilityReportingHundredthsPercent": "0",
