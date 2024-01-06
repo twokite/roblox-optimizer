@@ -27,7 +27,7 @@
   "DFStringLightstepHTTPTransportUrlPath": "https://opt-out.roblox.com",
   "DFStringLightstepToken": "https://opt-out.roblox.com",
   "DFStringRobloxAnalyticsURL": "https://opt-out.roblox.com",
-  "DFStringTelegrafAddress": "127.0.0.1", 
+  "DFStringTelegrafAddress": "127.0.0.1",
   "DFStringTelegrafHTTPTransportUrl": "https://opt-out.roblox.com",
   "DFStringTelemetryV2Url": "https://opt-out.roblox.com",
   "FFlagAdServiceEnabled": "False",
