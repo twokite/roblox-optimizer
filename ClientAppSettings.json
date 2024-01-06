@@ -50,6 +50,7 @@
   "FFlagEnableVoiceDefaultServerScript": "False",
   "FFlagFastGPULightCulling3": "True",
   "FFlagFixGraphicsQuality": "False",
+  "FFlagFullscreenTitleBarInjectGameServices": "False",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
