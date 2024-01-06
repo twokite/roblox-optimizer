@@ -52,8 +52,10 @@
   "FFlagFixGraphicsQuality": "False",
   "FFlagFullscreenTitleBarInjectGameServices": "False",
   "FFlagHandleAltEnterFullscreenManually": "False",
+  "FFlagInGameMenuV1FullScreenTitleBar": "False",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
+  "FFlagUseGUACforFullscreenTitleBar": "False"
   "FFlagUserRoactBubbleChatBeta": "True",
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatMultistreamSubscriptionsV3": "False",
