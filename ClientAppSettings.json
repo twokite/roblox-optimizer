@@ -23,7 +23,7 @@
   "FIntRenderShadowIntensity": "0",
   "DFIntRunningBaseOrientationP": "285",
   "DFIntS2PhysicsSenderRate": "325",
-  "FIntScrollWheelDeltaAmount": "0",
+  "FIntScrollWheelDeltaAmount": "1",
   "DFIntTaskSchedulerTargetFps": "165",
   "DFIntVoiceChatAudibilityReportingHundredthsPercent": "0",
   "DFStringAltHttpPointsReporterUrl": "https://opt-out.roblox.com",
