@@ -65,6 +65,7 @@
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
+  "FFlagSelfViewCameraDefaultButtonInViewPort": "False",
   "FFlagSelfViewChecks": "False",
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
