@@ -65,6 +65,7 @@
   "FFlagPreloadAllFonts": "True",
   "FFlagUserRoactBubbleChatBeta": "True",
   "FFlagVoiceBetaBadge": "False",
+  "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
   "FFlagVoiceChatMultistreamSubscriptionsV3": "False",
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
