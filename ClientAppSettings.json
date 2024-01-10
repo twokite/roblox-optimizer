@@ -40,6 +40,7 @@
   "DFStringTelemetryV2Url": "https://opt-out.roblox.com",
   "FFlagAdServiceEnabled": "False",
   "FFlagAllowClearCommand": "True",
+  "FFlagAvatarChatServiceEnabled3": "False",
   "FFlagBubbleVoiceIndicatorSetting": "True",
   "FFlagControlBetaBadgeWithGuac": "False",
   "FFlagClearUserFromRecentVoiceDataOnLeave": "True",
