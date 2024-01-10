@@ -53,6 +53,7 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "FFlagDebugDisplayFPS": "False",
+  "FFlagDebugGraphicsPreferD3D11": "True",
   "FFlagDebugSkyGray": "True",
   "FFlagDisablePostFx": "True",
   "FFlagDisablePrefetchProtocol": "True",
