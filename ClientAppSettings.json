@@ -63,6 +63,7 @@
   "FFlagFixGraphicsQuality": "False",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
+  "FFlagLuaAppSystemBar": "False",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
   "FFlagRenderGpuTextureCompressor": "True",
