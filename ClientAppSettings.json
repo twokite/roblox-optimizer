@@ -3,6 +3,7 @@
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagDebugAnalyticsSendUserId": "False",
   "DFFlagDebugPerfMode": "True",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagEnableDeviceCountryCode": "False",
   "DFFlagEnableLightstepReporting2": "False",
   "DFFlagEnablePerfDataCoreCategoryTimersCollection2": "False",
