@@ -2,7 +2,7 @@
   "DFFlagClientBaseNetworkMetrics": "False",
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagDebugAnalyticsSendUserId": "False",
-  "DFFlagDebugPerfMode": "True",
+  "DFFlagDebugPerfMode": "False",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagEnableDeviceCountryCode": "False",
   "DFFlagEnableLightstepReporting2": "False",
