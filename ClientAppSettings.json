@@ -73,7 +73,6 @@
   "FIntDebugForceMSAASamples": "0",
   "FIntFullscreenTitleBarTriggerDelayMillis": "268435456",
   "FIntPGSAngularDampingPermillPersecond": "9999999999",
-  "FIntRenderShadowIntensity": "0",
   "FIntVoiceUsersInteractionExpiryTimeSeconds": "300",
   "FLogNetwork": "NetworkZCS",
   "FLogVoiceChatLogs": "VoiceZCS",
