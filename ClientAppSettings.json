@@ -54,6 +54,7 @@
   "FFlagDebugSkyGray": "True",
   "FFlagDisablePostFx": "True",
   "FFlagDisablePrefetchProtocol": "True",
+  "FFlagEnableInGameMenuModernization": "False",
   "FFlagEnableVoiceDefaultServerScript": "False",
   "FFlagFastGPULightCulling3": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
