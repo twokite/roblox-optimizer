@@ -1,5 +1,7 @@
 {
   "DFFlagClientBaseNetworkMetrics": "False",
+  "DFFlagConsistentLoadCharacterCallbacks": "False",
+  "DFFlagConsistentLoadCharacterCallbacks2": "False",
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagDebugAnalyticsSendUserId": "False",
   "DFFlagDebugPerfMode": "True",
@@ -60,6 +62,7 @@
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
+  "FFlagPreloadTextureItemsOption4": "True",
   "FFlagRenderGpuTextureCompressor": "True",
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
