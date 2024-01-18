@@ -61,7 +61,7 @@
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
   "FFlagLuaCharacterControllerBetaFeature": "True",
-  "FFlagNewLightAttenuation": "True",
+  "FFlagNewLightAttenuation": "False",
   "FFlagPreloadAllFonts": "True",
   "FFlagPreloadTextureItemsOption4": "True",
   "FFlagRenderGpuTextureCompressor": "True",
