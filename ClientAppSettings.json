@@ -60,6 +60,7 @@
   "FFlagFastGPULightCulling3": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
+  "FFlagLuaCharacterControllerBetaFeature": "True",
   "FFlagNewLightAttenuation": "True",
   "FFlagPreloadAllFonts": "True",
   "FFlagPreloadTextureItemsOption4": "True",
