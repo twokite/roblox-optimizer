@@ -1,7 +1,5 @@
 {
   "DFFlagClientBaseNetworkMetrics": "False",
-  "DFFlagConsistentLoadCharacterCallbacks": "False",
-  "DFFlagConsistentLoadCharacterCallbacks2": "False",
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagDebugAnalyticsSendUserId": "False",
   "DFFlagDebugPerfMode": "True",
