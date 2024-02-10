@@ -55,6 +55,8 @@
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "FFlagDebugDisplayFPS": "False",
+  "FFlagDebugGraphicsDisableOpenGL": "True",
+  "FFlagDebugGraphicsDisableVulkan": "True",
   "FFlagDebugGraphicsPreferD3D11": "True",
   "FFlagDebugHotloadShaderPack": "True",
   "FFlagDebugHotloadShaders": "True",
