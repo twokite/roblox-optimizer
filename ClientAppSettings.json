@@ -15,6 +15,7 @@
   "DFFlagVoiceChatEnableEventLogging5": "False",
   "DFFlagVoiceChatIsVoiceEnabledForUser": "False",
   "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "False",
+  "DFFlagVoiceChatStreamingFix": "False",
   "DFFlagVoiceSendPiiUserIdOnJoin": "False",
   "DFFlagVoiceChatSignalingPriorityEnabled": "False",
   "DFFlagVoiceObserverFix": "False",
