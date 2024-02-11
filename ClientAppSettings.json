@@ -85,6 +85,8 @@
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatEnableRobloxTelemetryServiceInitEvent": "False",
   "FFlagVoiceChatMigrateToNewLoggingApi": "False",
+  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_Client": "False",
+  "FFlagVoiceChatNewControlPathsOneFlagToRuleThemAll_RCC": "False",
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FIntDebugForceMSAASamples": "0",
