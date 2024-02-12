@@ -1,4 +1,5 @@
 {
+  "DFFlagAudioDeviceTelemetry": "False",
   "DFFlagClientBaseNetworkMetrics": "False",
   "DFFlagDisableFastLogTelemetry": "True",
   "DFFlagDebugAnalyticsSendUserId": "False",
