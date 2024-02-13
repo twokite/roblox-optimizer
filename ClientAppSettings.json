@@ -14,7 +14,7 @@
   "DFFlagVoiceChatAutoTest": "True",
   "DFFlagVoiceChatEnableEventCounters3": "False",
   "DFFlagVoiceChatEnableEventLogging5": "False",
-  @DFFlagVoiceChatEnablePlayerModeratedSignal": "False",
+  "DFFlagVoiceChatEnablePlayerModeratedSignal": "False",
   "DFFlagVoiceChatIsVoiceEnabledForUser": "False",
   "DFFlagVoiceChatRccMigrationClientEventLoggingFix": "False",
   "DFFlagVoiceChatStreamingFix": "False",
