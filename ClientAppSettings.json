@@ -95,7 +95,7 @@
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FFlagVoiceServiceEnableDefaultVoice": "False",
-	"FFlagVoiceServiceIsVoiceEnabledEditMode": "False",
+  "FFlagVoiceServiceIsVoiceEnabledEditMode": "False",
   "FIntDebugForceMSAASamples": "0",
   "FIntFullscreenTitleBarTriggerDelayMillis": "268435456",
   "FIntPGSAngularDampingPermilPersecond": "550", 
