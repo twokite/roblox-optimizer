@@ -75,6 +75,7 @@
   "FFlagEnableLuaVoiceChatAnalyticsV2": "False",
   "FFlagEnableNewVoiceReportFlows": "False",
   "FFlagEnableVoiceDefaultServerScript": "False",
+  "FFlagEnableVoiceNudge": "False",
   "FFlagEnableVoiceUpsell": "False",
   "FFlagFastGPULightCulling3": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
