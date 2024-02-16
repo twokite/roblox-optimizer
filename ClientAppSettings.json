@@ -35,6 +35,8 @@
   "DFIntS2PhysicsSenderRate": "10",
   "DFIntTaskSchedulerTargetFps": "165",
   "DFIntVoiceChatAudibilityReportingHundredthsPercent": "0",
+  "DFIntVoiceChatReportTaskStatsIntervalMs": "268435456",
+	"DFIntVoiceChatTaskStatsTelemetryThrottleHundrethsPercent": "0",
   "DFStringAltHttpPointsReporterUrl": "https://opt-out.roblox.com",
   "DFStringAltTelegrafAddress": "127.0.0.1",
   "DFStringAltTelegrafHTTPTransportUrl": "https://opt-out.roblox.com",
