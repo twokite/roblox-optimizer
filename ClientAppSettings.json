@@ -49,6 +49,7 @@
   "DFStringTelegrafHTTPTransportUrl": "https://opt-out.roblox.com",
   "DFStringTelemetryV2Url": "https://opt-out.roblox.com",
   "FFlagAdServiceEnabled": "False",
+  "FFlagAlwaysSetupVoiceListeners": "False",
   "FFlagAvatarChatServiceEnabled3": "False",
   "FFlagBubbleVoiceIndicatorSetting": "True",
   "FFlagControlBetaBadgeWithGuac": "False",
