@@ -47,7 +47,6 @@
   "FFlagPreloadTextureItemsOption4": "True",
   "FFlagRenderGpuTextureCompressor": "True",
   "FFlagVoiceBetaBadge": "False",
-  "FFlagVoiceChatCullingEnabledV3": "True",
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FFlagVoiceServiceEnableDefaultVoice": "False",
