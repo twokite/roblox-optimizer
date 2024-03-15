@@ -4,7 +4,6 @@
   "DFFlagDebugAnalyticsSendUserId": "False",
   "DFFlagDebugPerfMode": "True",
   "DFFlagDebugVisualizeAllPropertyChanges": "True",
-  "DFFlagEnableLightstepReporting2": "False",
   "DFFlagFacialAnimationStreaming2": "False",
   "DFIntCanHideGuiGroupId": "32806861",
   "DFIntCSGLevelOfDetailSwitchingDistance": "250",
