@@ -4,8 +4,11 @@ echo.
 echo Starting installation...
 echo.
 
-for /d %%i in ("%localappdata%\Bloxstrap\Modifications\*") do (
-    set folder=%%i
+if exist "%localappdata%\Bloxstrap\Modifications" (
+    echo Bloxstrap was found during installation, setting folder.
+    echo.
+
+    set folder="%localappdata%\Bloxstrap\Modifications"
     goto :NextStep
 )
 
