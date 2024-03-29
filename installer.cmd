@@ -25,11 +25,9 @@ for /d %%i in ("C:\Program Files\Roblox\Versions\*") do (
     )
 )
 
-for /d %%i in ("%localappdata%\Bloxstrap\Versions\*") do (
-    if exist "%%i\RobloxPlayerBeta.exe" (
-        set folder=%%i
-        goto :NextStep
-    )
+for /d %%i in ("%localappdata%\Bloxstrap\Modifications\*") do (
+    set folder=%%i
+    goto :NextStep
 )
 
 :NextStep
