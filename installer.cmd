@@ -4,6 +4,11 @@ echo.
 echo Starting installation...
 echo.
 
+for /d %%i in ("%localappdata%\Bloxstrap\Modifications\*") do (
+    set folder=%%i
+    goto :NextStep
+)
+
 for /d %%i in ("%localappdata%\Roblox\Versions\*") do (
     if exist "%%i\RobloxPlayerBeta.exe" (
         set folder=%%i
@@ -23,11 +28,6 @@ for /d %%i in ("C:\Program Files\Roblox\Versions\*") do (
         set folder=%%i
         goto :NextStep
     )
-)
-
-for /d %%i in ("%localappdata%\Bloxstrap\Modifications\*") do (
-    set folder=%%i
-    goto :NextStep
 )
 
 :NextStep
