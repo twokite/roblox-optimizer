@@ -52,5 +52,6 @@ if %errorlevel% EQU 0 (
     echo ERROR: Installation failed!
 )
 
-echo.
-echo Press any key to continue... & exit >nul
+timeout /t 5 /nobreak >nul
+
+exit
