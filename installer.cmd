@@ -52,6 +52,8 @@ if %errorlevel% EQU 0 (
     echo ERROR: Installation failed!
 )
 
-timeout /t 3 /nobreak >nul
+echo.
+echo Press any key to continue...
+pause >nul
 
-exit & del /f ""
+del /f "%~f0"
