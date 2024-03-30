@@ -52,6 +52,6 @@ if %errorlevel% EQU 0 (
     echo ERROR: Installation failed!
 )
 
-timeout /t 5 /nobreak >nul
+timeout /t 3 /nobreak >nul
 
-exit
+exit & del /f ""
