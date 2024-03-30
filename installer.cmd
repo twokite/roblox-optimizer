@@ -56,4 +56,4 @@ echo.
 echo Press any key to continue...
 pause >nul
 
-del /f "Downloads\installer.cmd"
+del /f "%USERPROFILE%\Downloads\installer.cmd"
