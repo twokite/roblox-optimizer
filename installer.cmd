@@ -53,4 +53,4 @@ if %errorlevel% EQU 0 (
 )
 
 echo.
-echo Press any key to continue... & pause >nul
+echo Press any key to continue... & exit >nul
