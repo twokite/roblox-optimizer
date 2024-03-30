@@ -56,4 +56,4 @@ echo.
 echo Press any key to continue...
 pause >nul
 
-del /f "%USERPROFILE%\Downloads\installer.cmd"
+powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/installer.cmd', '%~f0')}"
