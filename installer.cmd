@@ -38,8 +38,16 @@ if not exist "%folder%\ClientSettings" (
     mkdir "%folder%\ClientSettings"
 )
 
+set /p choice=Do you want the default roblox textures? (Y/N): 
+set "choice=%choice:~0,1%"
+if /i "%choice%"=="Y" (
+    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/Textures.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
+) else (
+    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
+)
+
+echo.
 echo Downloading ClientAppSettings.json file...
-powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
 if %errorlevel% EQU 0 (
     echo.
     echo ClientAppSettings.json downloaded successfully!
