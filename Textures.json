@@ -47,7 +47,7 @@
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FFlagVoiceServiceEnableDefaultVoice": "False",
-  "FIntFontSizePadding": "3",
+  "FIntFontSizePadding": "2",
   "FIntFullscreenTitleBarTriggerDelayMillis": "268435456",
   "FIntVoiceUsersInteractionExpiryTimeSeconds": "300",
   "FStringGamesUrlPath": "/games/",
