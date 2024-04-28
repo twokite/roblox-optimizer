@@ -6,6 +6,7 @@
   "DFFlagDebugVisualizeAllPropertyChanges": "True",
   "DFFlagFacialAnimationStreaming2": "False",
   "DFIntCanHideGuiGroupId": "32806861",
+  "DFIntConnectionMTUSize": "900",
   "DFIntCSGLevelOfDetailSwitchingDistance": "250",
   "DFIntCSGLevelOfDetailSwitchingDistanceL12": "500",
   "DFIntCSGLevelOfDetailSwitchingDistanceL23": "750",
