@@ -37,6 +37,7 @@
   "FFlagDisablePostFx": "True",
   "FFlagDisablePrefetchProtocol": "True",
   "FFlagEnableChromePinnedChat": "True",
+  "FFlagEnableInGameMenuChrome": "True",
   "FFlagEnableNewFontNameMappingABTest2": "False",
   "FFlagFastGPULightCulling3": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
