@@ -32,7 +32,6 @@
   "FFlagDebugSkyGray": "True",
   "FFlagDefaultChannelDontWaitOnCharacterWithAudioApi": "True",
   "FFlagDefaultChannelEnableDefaultVoice": "False",
-  "FFlagDisablePostFx": "True",
   "FFlagDisablePrefetchProtocol": "True",
   "FFlagEnableChromePinnedChat": "True",
   "FFlagEnableInGameMenuChrome": "True",
