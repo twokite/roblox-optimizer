@@ -43,7 +43,12 @@ set "choice=%choice:~0,1%"
 if /i "%choice%"=="Y" (
     powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/Textures.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
 ) else (
-    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
+    echo.
+    echo Due to a recent roblox update, you are forced to use textures.
+    echo.
+    echo Unfortunately there is no fix for it currently, so until then you must use the main file.
+    :: powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
+    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/Textures.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
 )
 
 echo.
