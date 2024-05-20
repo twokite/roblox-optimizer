@@ -45,6 +45,7 @@
   "FFlagPreloadAllFonts": "True",
   "FFlagPreloadTextureItemsOption4": "True",
   "FFlagRenderGpuTextureCompressor": "True",
+  "FFlagUIBloxDevUseNewFontNameMapping_Rollout": "False",
   "FFlagVoiceBetaBadge": "False",
   "FFlagVoiceChatResizeAndNotReserve": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
