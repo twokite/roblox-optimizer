@@ -48,7 +48,7 @@ if /i "%choice%"=="Y" (
     echo.
     echo Unfortunately there is no fix for it currently, so until then you must use the main file.
     powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
-    :: powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/NoTextures.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
+    REM powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/NoTextures.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
 )
 
 echo.
