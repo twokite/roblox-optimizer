@@ -42,6 +42,7 @@
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
   "FFlagMSRefactor5": "False", 
+  "FFlagOldMenuUseSpeakerIcons": "False",
   "FFlagPreloadAllFonts": "True",
   "FFlagPreloadTextureItemsOption4": "True",
   "FFlagRenderGpuTextureCompressor": "True",
