@@ -21,6 +21,7 @@
   "DFStringTelegrafHTTPTransportUrl": "https://opt-out.roblox.com",
   "DFStringTelemetryV2Url": "https://opt-out.roblox.com",
   "FFlagAdServiceEnabled": "False",
+  "FFlagAvatarChatServiceEnabled2": "False",
   "FFlagAvatarChatServiceEnabled3": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
   "FFlagDebugDisableOTAMaterialTexture": "True",
