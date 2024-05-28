@@ -24,6 +24,8 @@
   "DFStringTelegrafAddress": "127.0.0.1",
   "DFStringTelegrafHTTPTransportUrl": "https://opt-out.roblox.com",
   "DFStringTelemetryV2Url": "https://opt-out.roblox.com",
+  "FFlagAddArialToLegacyContent": "False",
+  "FFlagAddGothamToLegacyContent": "False",
   "FFlagAdServiceEnabled": "False",
   "FFlagAvatarChatServiceEnabled3": "False",
   "FFlagAvatarChatServiceExposeUserVerifiedForVoiceV2": "False",
