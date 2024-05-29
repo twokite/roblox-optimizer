@@ -13,7 +13,7 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL12": "500",
   "DFIntCSGLevelOfDetailSwitchingDistanceL23": "750",
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": "1000",
-  "DFIntS2PhysicsSenderRate": "95",
+  "DFIntS2PhysicsSenderRate": "230",
   "DFIntTaskSchedulerTargetFps": "165",
   "DFIntVoiceChatAudibilityReportingHundredthsPercent": "0",
   "DFIntVoiceChatMaxRecordedDataDeliveryIntervalMs": "268435456",
