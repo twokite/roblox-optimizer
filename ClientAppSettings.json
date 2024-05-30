@@ -47,6 +47,7 @@
   "FFlagEnableLocationRecording": "False",
   "FFlagEnableNewFontNameMappingABTest2": "False",
   "FFlagFastGPULightCulling3": "True",
+  "FFlagGameBasicSettingsFramerateCap5": "False",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagInGameMenuV1FullScreenTitleBar": "False",
   "FFlagMSRefactor5": "False", 
