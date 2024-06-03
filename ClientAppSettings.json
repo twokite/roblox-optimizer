@@ -41,6 +41,7 @@
   "FFlagDefaultChannelDontWaitOnCharacterWithAudioApi": "True",
   "FFlagDefaultChannelEnableDefaultVoice": "False",
   "FFlagDisablePrefetchProtocol": "True",
+  "FFlagEnableChromePinIntegrations": "True",
   "FFlagEnableChromePinnedChat": "True",
   "FFlagEnableCoreVoiceChatModule": "False",
   "FFlagEnableInGameMenuChrome": "True",
