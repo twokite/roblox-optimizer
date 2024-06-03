@@ -4,7 +4,6 @@
   "DFFlagDebugAnalyticsSendUserId": "False",
   "DFFlagDebugPauseVoxelizer_PlaceFilter": "True, 2788229376, 7213786345, 8343259840, 15169303036, 15169310267, 10449761463",
   "DFFlagDebugVisualizeAllPropertyChanges": "True",
-  "DFFlagFacialAnimationStreaming2": "False",
   "DFFlagMoreConsistentPhysicsFiltering": "False",
   "DFFlagSimHumanoidPhysics": "False",
   "DFFlagVoiceChatRequestTrace": "False",
