@@ -64,7 +64,7 @@
   "FFlagVoiceConsentCopyV2": "False",
   "FFlagVoiceRecordingIndicatorsEnabled": "False",
   "FFlagVoiceServiceEnableDefaultVoice": "False",
-  "FIntFontSizePadding": "2",
+  "FIntFontSizePadding": "3",
   "FIntFRMMinGrassDistance": "0",
   "FIntFRMMaxGrassDistance": "0",
   "FIntFullscreenTitleBarTriggerDelayMillis": "268435456",
