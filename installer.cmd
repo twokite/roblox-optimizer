@@ -4,36 +4,46 @@ echo.
 echo Starting installation...
 echo.
 
+set "folder="
+
 if exist "%localappdata%\Bloxstrap\Modifications" (
     echo Bloxstrap was found during installation, setting folder.
     echo.
 
-    set folder="%localappdata%\Bloxstrap\Modifications"
+    set "folder=%localappdata%\Bloxstrap\Modifications"
     goto :NextStep
 )
 
 for /d %%i in ("%localappdata%\Roblox\Versions\*") do (
     if exist "%%i\RobloxPlayerBeta.exe" (
-        set folder=%%i
+        set "folder=%%i"
         goto :NextStep
     )
 )
 
 for /d %%i in ("C:\Program Files (x86)\Roblox\Versions\*") do (
     if exist "%%i\RobloxPlayerBeta.exe" (
-        set folder=%%i
+        set "folder=%%i"
         goto :NextStep
     )
 )
 
 for /d %%i in ("C:\Program Files\Roblox\Versions\*") do (
     if exist "%%i\RobloxPlayerBeta.exe" (
-        set folder=%%i
+        set "folder=%%i"
         goto :NextStep
     )
 )
 
 :NextStep
+if not defined folder (
+    echo.
+    echo ERROR: Roblox installation not found!
+    echo.
+    pause
+    goto :EOF
+)
+
 if not exist "%folder%\ClientSettings" (
     mkdir "%folder%\ClientSettings"
 )
@@ -53,6 +63,10 @@ if /i "%choice%"=="Y" (
 
 echo.
 echo Downloading ClientAppSettings.json file...
+
+powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/content.zip', '%folder%\content.zip')}"
+powershell.exe -Command "& {Expand-Archive -Path '%folder%\content.zip' -DestinationPath '%folder%' -Force}"
+
 if %errorlevel% EQU 0 (
     echo.
     echo ClientAppSettings.json downloaded successfully!
