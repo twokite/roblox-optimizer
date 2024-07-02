@@ -64,8 +64,8 @@ if /i "%choice%"=="Y" (
 echo.
 echo Downloading ClientAppSettings.json file...
 
-powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/content.zip', '%folder%\content.zip')}"
-powershell.exe -Command "& {Expand-Archive -Path '%folder%\content.zip' -DestinationPath '%folder%' -Force}"
+REM powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/content.zip', '%folder%\content.zip')}"
+REM powershell.exe -Command "& {Expand-Archive -Path '%folder%\content.zip' -DestinationPath '%folder%' -Force}"
 
 if %errorlevel% EQU 0 (
     echo.
