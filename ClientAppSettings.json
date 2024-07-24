@@ -71,7 +71,7 @@
   "FIntFRMMinGrassDistance": "0",
   "FIntFRMMaxGrassDistance": "0",
   "FIntFullscreenTitleBarTriggerDelayMillis": "268435456",
-  "FIntRakNetResendBufferArrayLength": "2048",
+  "FIntRakNetResendBufferArrayLength": "128",
   "FIntRenderGrassDetailStrands": "0",
   "FIntRenderGrassHeightScaler": "0",
   "FIntVoiceUsersInteractionExpiryTimeSeconds": "300",
