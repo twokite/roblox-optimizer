@@ -13,7 +13,7 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL23": "750",
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": "1000",
   "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
-  "DFIntRakNetResendRttMultiple": "8",
+  "DFIntRakNetResendRttMultiple": "1",
   "DFIntS2PhysicsSenderRate": "15",
   "DFIntTaskSchedulerTargetFps": "165",
   "DFIntVoiceChatAudibilityReportingHundredthsPercent": "0",
