@@ -8,6 +8,7 @@
   "DFFlagRakNetDontMeasureReliablePing": "False",
   "DFFlagRakNetFixBwCollapse": "True",
   "DFFlagSimHumanoidPhysics": "False",
+  "DFFlagVideoCaptureServiceEnabled": "False",
   "DFFlagVoiceChatRequestTrace": "False",
   "DFIntCanHideGuiGroupId": "32806861",
   "DFIntCSGLevelOfDetailSwitchingDistance": "250",
