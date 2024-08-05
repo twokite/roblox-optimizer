@@ -8,10 +8,12 @@ set "folder="
 
 rem Check Bloxstrap installation
 if exist "%localappdata%\Bloxstrap\Modifications" (
-    echo Bloxstrap was found during installation, setting folder.
-    echo.
-    set "folder=%localappdata%\Bloxstrap\Modifications"
-    goto :NextStep
+    if exist "%localappdata%\Bloxstrap\Bloxstrap.exe" (
+        echo Bloxstrap was found during installation, setting folder.
+        echo.
+        set "folder=%localappdata%\Bloxstrap\Modifications"
+        goto :NextStep
+    )
 )
 
 rem Check Roblox installations
