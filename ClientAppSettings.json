@@ -18,6 +18,8 @@
 	"FFlagDebugDisableTelemetryV2Event": "True",
 	"FFlagDebugDisableTelemetryV2Stat": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
+	"FFlagEnableNavBarLabels3": "False",
+	"FFlagLuaAppChartsPageRenameIXP": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
 
