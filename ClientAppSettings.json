@@ -1,4 +1,6 @@
 {
+	"DFFlagDebugPerfMode": "True",
+	
 	"DFIntCanHideGuiGroupId": "32806861",
 	"DFIntConnectionMTUSize": "900",
 	"DFIntMaxFrameBufferSize": "4",
@@ -9,6 +11,7 @@
 
 	"FFlagAddArialToLegacyContent": "False",
 	"FFlagAddGothamToLegacyContent": "False",
+	"FFlagAdServiceEnabled": "False",
 	"FFlagCapturesHotkeyEnabledForAll": "False",
 	"FFlagDebugDisableTelemetryEphemeralCounter ": "True",
 	"FFlagDebugDisableTelemetryEphemeralStat": "True",
