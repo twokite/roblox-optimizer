@@ -23,5 +23,6 @@
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
 
-	"FIntFontSizePadding": "3"
+	"FIntFontSizePadding": "3",
+	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647"
 }
