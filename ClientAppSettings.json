@@ -26,6 +26,7 @@
 	"FFlagLuaAppChartsPageRename": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
+	"FFlagShrinkSpatialVoiceBuffers2": "True",
 
 	"FIntFontSizePadding": "3",
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647"
