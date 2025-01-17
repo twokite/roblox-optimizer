@@ -21,13 +21,18 @@
 	"FFlagDebugDisableTelemetryV2Counter": "True",
 	"FFlagDebugDisableTelemetryV2Event": "True",
 	"FFlagDebugDisableTelemetryV2Stat": "True",
+	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
 	"FFlagEnableNavBarLabels3": "False",
+	"FFlagFixPermissionsButtonsEvents": "False",
 	"FFlagLuaAppChartsPageRename": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
 	"FFlagShrinkSpatialVoiceBuffers2": "True",
 
 	"FIntFontSizePadding": "3",
-	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647"
+	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647",
+	"FIntLinkingProtocolCore": "0",
+	"FIntLinkingProtocolFetchRetries": "0",
+	"FIntLinkingProtocolFetchTimeoutMS": "1"
 }
