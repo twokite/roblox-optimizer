@@ -2,7 +2,7 @@
 	"DFFlagDebugPerfMode": "True",
 	
 	"DFIntCanHideGuiGroupId": "32806861",
-	"DFIntConnectionMTUSize": "900",
+	"DFIntConnectionMTUSize": "1390",
 	"DFIntMaxFrameBufferSize": "4",
 	"DFIntMaxProcessPacketsJobScaling": "2147483647",
 	"DFIntMaxProcessPacketsStepsAccumulated": "0",
@@ -24,7 +24,6 @@
 	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
 	"FFlagEnableNavBarLabels3": "False",
-	"FFlagFixPermissionsButtonsEvents": "False",
 	"FFlagLuaAppChartsPageRename": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
@@ -32,7 +31,7 @@
 
 	"FIntFontSizePadding": "3",
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647",
-	"FIntLinkingProtocolCore": "0",
+	"FIntLinkingProtocolCore": "3",
 	"FIntLinkingProtocolFetchRetries": "0",
 	"FIntLinkingProtocolFetchTimeoutMS": "1"
 }
