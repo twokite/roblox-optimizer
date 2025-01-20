@@ -37,7 +37,7 @@
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647",
 	"FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "10000",
 
-	"FStringVoiceExposureIXPLayerName": "NoLayer",
-	"FStringVoiceUpsellLayer": "NoLayer",
-	"FStringFmodUseVoiceDriverIxpLayer": "NoLayer"
+	"FStringVoiceExposureIXPLayerName": "Z",
+	"FStringVoiceUpsellLayer": "Z",
+	"FStringFmodUseVoiceDriverIxpLayer": "Z"
 }
