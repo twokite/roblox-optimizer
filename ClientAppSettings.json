@@ -23,15 +23,20 @@
 	"FFlagDebugDisableTelemetryV2Stat": "True",
 	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
+	"FFlagEnableInExpVoiceUpsell": "False",
 	"FFlagEnableNavBarLabels3": "False",
+	"FFlagEnableVoiceChatStorybookFix": "False",
 	"FFlagLuaAppChartsPageRename": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
 	"FFlagShrinkSpatialVoiceBuffers2": "True",
+	"FFlagVoiceChatStopSendingIceCandidate": "True",
 
 	"FIntFontSizePadding": "3",
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647",
-	"FIntLinkingProtocolCore": "3",
-	"FIntLinkingProtocolFetchRetries": "0",
-	"FIntLinkingProtocolFetchTimeoutMS": "1"
+	"FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "10000",
+
+	"FStringVoiceExposureIXPLayerName": "Z",
+	"FStringVoiceUpsellLayer": "Z",
+	"FStringFmodUseVoiceDriverIxpLayer": "Z"
 }
