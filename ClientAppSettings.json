@@ -24,7 +24,7 @@
 	"FFlagDebugDisableTelemetryV2Stat": "True",
 	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
-	"FFlagEnableInExpVoiceUpsell": "False",
+	"z_FFlagEnableInExpVoiceUpsell": "False",
 	"FFlagEnableNavBarLabels3": "False",
 	"FFlagEnableVoiceChatStorybookFix": "False",
 	"FFlagLuaAppChartsPageRename": "False",
