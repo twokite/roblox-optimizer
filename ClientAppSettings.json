@@ -25,14 +25,11 @@
 	"FFlagDebugDisableTelemetryV2Stat": "True",
 	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
-	"FFlagEnableInExpVoiceUpsell": "False",
 	"FFlagEnableInGameMenuChrome": "True",
 	"FFlagEnableNavBarLabels3": "False",
-	"FFlagEnableVoiceChatStorybookFix": "False",
 	"FFlagLuaAppChartsPageRename": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
-	"FFlagShrinkSpatialVoiceBuffers2": "True",
 
 	"FIntFontSizePadding": "3",
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647"
