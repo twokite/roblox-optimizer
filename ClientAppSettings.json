@@ -1,5 +1,6 @@
 {
 	"DFFlagDebugPerfMode": "True",
+	"DFFlagVoiceChatAutoTest": "True",
 	
 	"DFIntCanHideGuiGroupId": "32806861",
 	"DFIntConnectionMTUSize": "1390",
