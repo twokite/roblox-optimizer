@@ -25,6 +25,7 @@
 	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
 	"FFlagEnableInExpVoiceUpsell": "False",
+	"FFlagEnableInGameMenuChrome": "True",
 	"FFlagEnableNavBarLabels3": "False",
 	"FFlagEnableVoiceChatStorybookFix": "False",
 	"FFlagLuaAppChartsPageRename": "False",
