@@ -37,8 +37,4 @@
 	"FIntFontSizePadding": "3",
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647",
 	"FIntVoiceChatLazySendingRealtimeAudioMixerStatsPopulationThousandth": "10000",
-
-	"FStringVoiceExposureIXPLayerName": "Z",
-	"FStringVoiceUpsellLayer": "Z",
-	"FStringFmodUseVoiceDriverIxpLayer": "Z"
 }
