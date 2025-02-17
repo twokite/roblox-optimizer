@@ -5,6 +5,7 @@
 	
 	"DFIntCanHideGuiGroupId": "32806861",
 	"DFIntConnectionMTUSize": "1390",
+	"DFIntLargePacketQueueSizeCutoffMB": "800",
 	"DFIntMaxFrameBufferSize": "4",
 	"DFIntMaxProcessPacketsJobScaling": "2147483647",
 	"DFIntMaxProcessPacketsStepsAccumulated": "0",
