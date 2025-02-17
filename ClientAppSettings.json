@@ -8,7 +8,7 @@
 	"DFIntMaxProcessPacketsJobScaling": "2147483647",
 	"DFIntMaxProcessPacketsStepsAccumulated": "0",
 	"DFIntMaxProcessPacketsStepsPerCyclic": "2147483647",
-	"DFIntTaskSchedulerTargetFps": "165",
+	"DFIntTaskSchedulerTargetFps": "240",
 	"DFIntVoiceChatVolumeThousandths": "1800",
 
 	"FFlagAddArialToLegacyContent": "False",
