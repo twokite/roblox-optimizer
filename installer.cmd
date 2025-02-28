@@ -22,7 +22,7 @@ for /d %%i in (
     "C:\Program Files (x86)\Roblox\Versions\*"
     "C:\Program Files\Roblox\Versions\*"
 ) do (
-    if exist "%%i\RobloxPlayerBeta.exe" (
+    if exist "%%i\RobloxPlayerBeta.dll" (
         set "folder=%%i"
         goto :NextStep
     )
