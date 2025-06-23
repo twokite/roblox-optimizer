@@ -10,6 +10,8 @@
 	"DFIntMaxProcessPacketsJobScaling": "2147483647",
 	"DFIntMaxProcessPacketsStepsAccumulated": "0",
 	"DFIntMaxProcessPacketsStepsPerCyclic": "2147483647",
+	"DFIntRaycastMaxDistance_PlaceFilter": "10;126884695634066",
+	"DFIntSecondsBetweenDynamicVariableReloading": "2147483647",
 	"DFIntTaskSchedulerTargetFps": "240",
 	"DFIntVoiceChatVolumeThousandths": "1800",
 
@@ -29,11 +31,11 @@
 	"FFlagDisablePostFx": "True",
 	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
 	"FFlagEnableInGameMenuChrome": "True",
-	"FFlagEnableNavBarLabels3": "False",
+	"FFlagHandleAltEnterFullscreenManually": "False",
 	"FFlagLuaAppChartsPageRename": "False",
 	"FFlagOldMenuUseSpeakerIcons": "False",
 	"FFlagRenderFixFog": "True",
 
-	"FIntFontSizePadding": "3",
+	"FIntFontSizePadding": "2",
 	"FIntFullscreenTitleBarTriggerDelayMillis": "2147483647"
 }
