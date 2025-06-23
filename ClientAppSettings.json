@@ -12,7 +12,6 @@
 	"DFIntMaxProcessPacketsStepsPerCyclic": "2147483647",
 	"DFIntRaycastMaxDistance_PlaceFilter": "12;126884695634066",
 	"DFIntSecondsBetweenDynamicVariableReloading": "2147483647",
-	"DFIntTaskSchedulerTargetFps": "240",
 	"DFIntVoiceChatVolumeThousandths": "1800",
 
 	"FFlagAddArialToLegacyContent": "False",
@@ -28,7 +27,6 @@
 	"FFlagDebugDisableTelemetryV2Stat": "True",
 	"FFlagDisableCEVBacktraceReporting": "True",
 	"FFlagDisablePostFx": "True",
-	"FFlagEnableCapturesHotkeyExperiment_v4": "False",
 	"FFlagEnableInGameMenuChrome": "True",
 	"FFlagHandleAltEnterFullscreenManually": "False",
 	"FFlagLuaAppChartsPageRename": "False",
