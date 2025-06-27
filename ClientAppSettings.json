@@ -10,7 +10,7 @@
 	"DFIntMaxProcessPacketsJobScaling": "2147483647",
 	"DFIntMaxProcessPacketsStepsAccumulated": "0",
 	"DFIntMaxProcessPacketsStepsPerCyclic": "2147483647",
-	"DFIntRaycastMaxDistance_PlaceFilter": "12;126884695634066",
+	"DFIntRaycastMaxDistance_PlaceFilter": "24;126884695634066",
 	"DFIntSecondsBetweenDynamicVariableReloading": "2147483647",
 	"DFIntVoiceChatVolumeThousandths": "1800",
 
