@@ -5,7 +5,7 @@
 	
 	"DFIntCanHideGuiGroupId": "32806861",
 	"DFIntConnectionMTUSize": "1390",
-	"DFIntDebugRestrictGCDistance_PlaceFilter": "3;126244816328678;6032399813;6473861193;5735553160;8668476218;13891478131",
+	"DFIntDebugRestrictGCDistance_PlaceFilter": "5;126244816328678;6032399813;6473861193;5735553160;8668476218;13891478131",
 	"DFIntLargePacketQueueSizeCutoffMB": "800",
 	"DFIntMaxFrameBufferSize": "4",
 	"DFIntMaxProcessPacketsJobScaling": "2147483647",
