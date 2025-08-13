@@ -247,7 +247,7 @@
   "DISABLED_DFIntDebugRestrictGCDistance": "1",
   "DISABLED_DFIntTextureQualityOverride": "1",
   "DISABLED_FIntDebugForceMSAASamples": "1",
-  "FIntDebugFRMOptionalMSAALevelOverride": "0",
+  "DISABLED_FIntDebugFRMOptionalMSAALevelOverride": "0",
   "DISABLED_FIntDebugTextureManagerSkipMips": "8",
   "DISABLED_FIntTerrainArraySliceSize": "0",
   "DISABLED_FIntRomarkStartWithGraphicQualityLevel": "1"
