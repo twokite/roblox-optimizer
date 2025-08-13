@@ -233,8 +233,6 @@
   "FIntVertexSmoothingGroupTolerance": "0",
 
   "FStringGetPlayerImageDefaultTimeout": "1",
-  "FStringTerrainMaterialTable2022": "",
-  "FStringTerrainMaterialTablePre2022": "",
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
 
   "FLogNetwork": "7",
