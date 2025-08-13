@@ -230,7 +230,6 @@
   "FIntTaskSchedulerAutoThreadLimit": "4",
   "FIntUITextureMaxUpdateDepth": "1",
   "FIntUnifiedLightingBlendZone": "0",
-  "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
   "FIntVertexSmoothingGroupTolerance": "0",
 
   "FStringGetPlayerImageDefaultTimeout": "1",
