@@ -215,7 +215,7 @@
   "FIntRenderLocalLightUpdatesMax": "1",
   "FIntRenderLocalLightUpdatesMin": "1",
   "FIntRenderMeshOptimizeVertexBuffer": "1",
-  "FIntRenderShadowIntensity": "25",
+  "FIntRenderShadowIntensity": "50",
   "FIntRuntimeMaxNumOfConditions": "1000000",
   "FIntRuntimeMaxNumOfDPCs": "64",
   "FIntRuntimeMaxNumOfLatches": "1000000",
