@@ -215,7 +215,7 @@
   "FIntRenderLocalLightUpdatesMax": "1",
   "FIntRenderLocalLightUpdatesMin": "1",
   "FIntRenderMeshOptimizeVertexBuffer": "1",
-  "FIntRenderShadowIntensity": "0",
+  "FIntRenderShadowIntensity": "25",
   "FIntRuntimeMaxNumOfConditions": "1000000",
   "FIntRuntimeMaxNumOfDPCs": "64",
   "FIntRuntimeMaxNumOfLatches": "1000000",
@@ -242,6 +242,8 @@
   "DFIntRakNetPingFrequencyMillisecond": "10",
   "DFIntRakNetResendRttMultiple": "1",
   "DFIntRakNetSelectTimeoutMs": "1",
+
+  "DISABLED_FStringDebugShowFlagState": "null",
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
   "DISABLED_DFIntDebugRestrictGCDistance": "1",
