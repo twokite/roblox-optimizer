@@ -51,7 +51,7 @@ for %%F in (!folders:;= !) do (
     )
 
     rem Download ClientAppSettings.json
-    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('%url%', '%%F\ClientSettings\ClientAppSettings.json')}"
+    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json', '%%F\ClientSettings\ClientAppSettings.json')}"
 
     rem Download and extract Roblox.zip
     powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/Roblox.zip', '%%F\Roblox.zip')}"
