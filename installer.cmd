@@ -1,18 +1,18 @@
 @echo off
+setlocal enabledelayedexpansion
 
 echo.
 echo Starting installation...
 echo.
 
-set "folder="
+set "folders="
 
 rem Check Bloxstrap installation
 if exist "%localappdata%\Bloxstrap\Modifications" (
     if exist "%localappdata%\Bloxstrap\Bloxstrap.exe" (
-        echo Bloxstrap was found during installation, setting folder.
+        echo Bloxstrap was found during installation.
         echo.
-        set "folder=%localappdata%\Bloxstrap\Modifications"
-        goto :NextStep
+        set "folders=%localappdata%\Bloxstrap\Modifications"
     )
 )
 
@@ -23,59 +23,60 @@ for /d %%i in (
     "C:\Program Files\Roblox\Versions\*"
 ) do (
     if exist "%%i\RobloxPlayerBeta.dll" (
-        set "folder=%%i"
-        goto :NextStep
+        if not defined folders (
+            set "folders=%%i"
+        ) else (
+            set "folders=!folders!;%%i"
+        )
     )
 )
 
-:NextStep
-rem Verify folder was set
-if not defined folder (
+rem If no folders found, exit
+if not defined folders (
     echo.
-    echo ERROR: Roblox installation not found!
+    echo ERROR: No valid Roblox installations found!
     echo.
     pause
     goto :EOF
 )
 
-rem Create ClientSettings directory if it does not exist
-if not exist "%folder%\ClientSettings" (
-    mkdir "%folder%\ClientSettings"
-)
-
 rem Prompt for texture choice
-set /p choice=Do you want the default roblox textures? (Y/N): 
+set /p choice=Do you want the default Roblox textures? (Y/N): 
 set "choice=%choice:~0,1%"
 
 rem Set download URL based on user choice
 set "url=https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json"
 if /i "%choice%" NEQ "Y" (
     echo.
-    echo Due to a recent roblox update, you are forced to use textures.
+    echo Due to a recent Roblox update, you are forced to use textures.
     echo.
     echo Unfortunately, there is no fix for it currently, so until then you must use the main file.
 )
 
-rem Download ClientAppSettings.json
-echo.
-echo Downloading ClientAppSettings.json file...
-powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('%url%', '%folder%\ClientSettings\ClientAppSettings.json')}"
+rem Loop through each folder
+for %%F in (!folders:;= !) do (
+    echo.
+    echo Applying settings to: %%F
 
-rem Download and extract Roblox.zip
-powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/Roblox.zip', '%folder%\Roblox.zip')}"
-powershell.exe -Command "& {Expand-Archive -Path '%folder%\Roblox.zip' -DestinationPath '%folder%' -Force}"
+    rem Create ClientSettings if not exist
+    if not exist "%%F\ClientSettings" (
+        mkdir "%%F\ClientSettings"
+    )
 
-rem Check if download was successful
-if %errorlevel% EQU 0 (
-    echo.
-    echo ClientAppSettings.json downloaded successfully!
-    echo.
-    echo SUCCESS: Installation completed!
-) else (
-    echo.
-    echo Failed to download ClientAppSettings.json.
-    echo.
-    echo ERROR: Installation failed!
+    rem Download ClientAppSettings.json
+    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('%url%', '%%F\ClientSettings\ClientAppSettings.json')}"
+
+    rem Download and extract Roblox.zip
+    powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/twokite/roblox-optimizer/main/Roblox.zip', '%%F\Roblox.zip')}"
+    powershell.exe -Command "& {Expand-Archive -Path '%%F\Roblox.zip' -DestinationPath '%%F' -Force}"
+
+    if !errorlevel! EQU 0 (
+        echo.
+        echo SUCCESS: Applied to %%F
+    ) else (
+        echo.
+        echo ERROR: Failed to apply to %%F
+    )
 )
 
 echo.
