@@ -40,19 +40,6 @@ if not defined folders (
     goto :EOF
 )
 
-rem Prompt for texture choice
-set /p choice=Do you want the default Roblox textures? (Y/N): 
-set "choice=%choice:~0,1%"
-
-rem Set download URL based on user choice
-set "url=https://raw.githubusercontent.com/twokite/roblox-optimizer/main/ClientAppSettings.json"
-if /i "%choice%" NEQ "Y" (
-    echo.
-    echo Due to a recent Roblox update, you are forced to use textures.
-    echo.
-    echo Unfortunately, there is no fix for it currently, so until then you must use the main file.
-)
-
 rem Loop through each folder
 for %%F in (!folders:;= !) do (
     echo.
