@@ -102,7 +102,7 @@
   "DFIntRakNetNakResendDelayMsMax": "1",
   "DFIntRakNetPingFrequencyMillisecond": "1",
   "DFIntRakNetResendRttMultiple": "1",
-  "DFIntRakNetSelectTimeoutMs": "1000",
+  "DFIntRakNetSelectTimeoutMs": "1",
   "DFIntRakNetUseSlidingWindow2_minRtt": "500",
   "DFIntRaknetBandwidthInfluxHundredthsPercentageV2": "10000",
   "DFIntReplicationDataCacheNumParallelTasks": "20",
