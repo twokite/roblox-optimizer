@@ -229,7 +229,6 @@
   "FIntSmoothClusterTaskQueueMaxParallelTasks": "20",
   "FIntSmoothMouseSpringFrequencyTenths": "100",
   "FIntTaskSchedulerAutoThreadLimit": "4",
-  "FIntTerrainArraySliceSize": "0",
   "FIntUITextureMaxUpdateDepth": "1",
   "FIntUnifiedLightingBlendZone": "0",
   "FIntVertexSmoothingGroupTolerance": "0",
