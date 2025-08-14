@@ -248,6 +248,8 @@
   "DFIntRakNetSelectTimeoutMs": "1",
 
   "DISABLED_FStringDebugShowFlagState": "null",
+
+  // Experimental
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
   "DFIntDebugRestrictGCDistance": "1",
