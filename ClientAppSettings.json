@@ -1,4 +1,6 @@
 {
+  "ListUpdateVersion": "23:40 14/08/2025",
+  
   "DFFlagAcceleratorUpdateOnPropsAndValueTimeChange": "True",
   "DFFlagAnimationThrottlingInertialization": "True",
   "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
@@ -246,7 +248,7 @@
   "DISABLED_FStringDebugShowFlagState": "null",
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
-  "DISABLED_DFIntDebugRestrictGCDistance": "1",
+  "DFIntDebugRestrictGCDistance": "1",
   "DISABLED_DFIntTextureQualityOverride": "1",
   "DISABLED_FIntDebugForceMSAASamples": "1",
   "DISABLED_FIntDebugFRMOptionalMSAALevelOverride": "0",
