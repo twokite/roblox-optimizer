@@ -1,5 +1,5 @@
 {
-  "ListUpdateVersion": "00:02 15/08/2025",
+  "ListUpdateVersion": "05:15 15/08/2025",
   
   "DFFlagAcceleratorUpdateOnPropsAndValueTimeChange": "True",
   "DFFlagAnimationThrottlingInertialization": "True",
@@ -247,7 +247,7 @@
   "DFIntRakNetResendRttMultiple": "1",
   "DFIntRakNetSelectTimeoutMs": "1",
 
-  "DISABLED_FStringDebugShowFlagState": "null",
+  "DISABLED_FStringDebugShowFlagState": "ChannelName",
 
   // Experimental
   
