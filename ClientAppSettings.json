@@ -239,6 +239,8 @@
 
   "FLogNetwork": "7",
 
+  // Network Optimization
+
   "DFIntRakNetNakResendDelayMs": "1",
   "DFIntRakNetNakResendDelayMsMax": "20",
   "DFIntRakNetPingFrequencyMillisecond": "10",
