@@ -1,5 +1,5 @@
 {
-  "ListUpdateVersion": "05:30 17/08/2025",
+  "ListUpdateVersion": "05:34 17/08/2025",
   
   "DFFlagAcceleratorUpdateOnPropsAndValueTimeChange": "True",
   "DFFlagAnimationThrottlingInertialization": "True",
@@ -252,7 +252,7 @@
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DISABLED_FFlagDebugForceFutureIsBrightPhase3": "True",
   "FFlagRenderUnifiedLighting16": "False",
-  "FFlagUnifiedLightingBetaFeature": "False",
+  "FFlagRenderUnifiedLightingNew": "False",
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
   "DFIntDebugRestrictGCDistance": "1",
