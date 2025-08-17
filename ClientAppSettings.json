@@ -1,5 +1,5 @@
 {
-  "ListUpdateVersion": "05:15 15/08/2025",
+  "ListUpdateVersion": "05:30 17/08/2025",
   
   "DFFlagAcceleratorUpdateOnPropsAndValueTimeChange": "True",
   "DFFlagAnimationThrottlingInertialization": "True",
@@ -11,7 +11,6 @@
   "DFFlagDebugLargeReplicatorDisableDelta": "True",
   "DFFlagDebugLargeReplicatorForceFullSend": "True",
   "DFFlagDebugPerfMode": "True",
-  "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDebugSkipMeshVoxelizer": "True",
   "DFFlagDisableDPIScale": "True",
   "DFFlagEnableMeshPreloading2": "True",
@@ -140,7 +139,6 @@
   "FFlagDebugDisableTelemetryV2Stat": "True",
   "FFlagDebugEnableDirectAudioOcclusion2": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
-  "FFlagDebugForceFutureIsBrightPhase3": "True",
   "FFlagDebugForceGenerateHSR": "True",
   "FFlagDebugGraphicsPreferD3D11": "True",
   "FFlagDebugGraphicsPreferD3D11FL10": "True",
@@ -250,6 +248,10 @@
   "DISABLED_FStringDebugShowFlagState": "ChannelName",
 
   // Experimental
+
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "DISABLED_FFlagDebugForceFutureIsBrightPhase3": "True",
+  "FFlagUnifiedLightingBetaFeature": "False",
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
   "DFIntDebugRestrictGCDistance": "1",
