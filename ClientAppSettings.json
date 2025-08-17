@@ -252,6 +252,7 @@
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DISABLED_FFlagDebugForceFutureIsBrightPhase3": "True",
   "FFlagRenderUnifiedLighting16": "False",
+  "FFlagUnifiedLightingBetaFeature": "False",
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
   "DFIntDebugRestrictGCDistance": "1",
