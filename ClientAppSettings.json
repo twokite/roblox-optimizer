@@ -1,5 +1,5 @@
 {
-  "ListUpdateVersion": "01:20 17/08/2025",
+  "ListUpdateVersion": "02:02 08/09/2025",
   
   "DFFlagAcceleratorUpdateOnPropsAndValueTimeChange": "True",
   "DFFlagAnimationThrottlingInertialization": "True",
@@ -255,7 +255,7 @@
   "DISABLED_FFlagRenderUnifiedLightingNew": "False",
   
   "DISABLED_DFIntDebugFRMQualityLevelOverride": "1",
-  "DFIntDebugRestrictGCDistance": "1",
+  "DISABLED_DFIntDebugRestrictGCDistance": "1",
   "DISABLED_DFIntTextureQualityOverride": "1",
   "DISABLED_FIntDebugForceMSAASamples": "1",
   "DISABLED_FIntDebugFRMOptionalMSAALevelOverride": "0",
