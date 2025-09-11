@@ -212,7 +212,6 @@
         "FIntRenderLocalLightUpdatesMin": "1",
         "FIntRenderMeshOptimizeVertexBuffer": "1",
         "FIntRenderShadowIntensity": "50",
-        "FIntSSAOMipLevels": "0",
         "FIntSimSolverResponsiveness": "2147483647",
         "FIntUITextureMaxUpdateDepth": "1",
         "FIntUnifiedLightingBlendZone": "0",
