@@ -139,8 +139,6 @@
   "FFlagDebugEnableDirectAudioOcclusion2": "True",
   "FFlagDebugForceFSMCPULightCulling": "True",
   "FFlagDebugForceGenerateHSR": "True",
-  "FFlagDebugGraphicsPreferD3D11": "True",
-  "FFlagDebugGraphicsPreferD3D11FL10": "True",
   "FFlagDebugLargeReplicatorEnabled": "True",
   "FFlagDebugLargeReplicatorRead": "True",
   "FFlagDebugLargeReplicatorWrite": "True",
