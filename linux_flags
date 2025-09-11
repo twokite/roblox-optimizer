@@ -117,7 +117,7 @@
         "DFIntServerRakNetBandwidthPlayerSampleRate": "2147483647",
         "DFIntTaskSchedulerJobInGameThreads": "20",
         "DFIntTaskSchedulerJobInitThreads": "20",
-        "DFIntTaskSchedulerTargetFps": "400",
+        "DFIntTaskSchedulerTargetFps": "1500",
         "DFIntTeleportClientAssetPreloadingHundredthsPercentage2": "1000",
         "DFIntTouchSenderMaxBandwidthBps": "1050",
         "DFIntTouchSenderMaxBandwidthBpsScaling": "2",
