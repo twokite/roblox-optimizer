@@ -136,6 +136,7 @@
       "FFlagControlBetaBadgeWithGuac": "False",
       "FFlagCreationDBCompressRequest": "False",
       "FFlagDebugCheckRenderThreading": "True",
+      "FFlagDebugDisableOTAMaterialTexture": "True",
       "FFlagDebugDisableTelemetryEphemeralCounter": "True",
       "FFlagDebugDisableTelemetryEphemeralStat": "True",
       "FFlagDebugDisableTelemetryEventIngest": "True",
@@ -236,6 +237,8 @@
       "FIntVertexSmoothingGroupTolerance": "0",
       
       "FStringGetPlayerImageDefaultTimeout": "1",
+      "FStringPartTexturePackTable2022": "",
+      "FStringPartTexturePackTablePre2022": "",
       "FStringVoiceBetaBadgeLearnMoreLink": "null",
       
       "FLogNetwork": "7",
