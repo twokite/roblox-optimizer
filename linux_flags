@@ -202,6 +202,8 @@
   "FFlagVideoServiceAddHardwareCodecMetrics": "True",
   "FFlagVoiceBetaBadge": "False",
 
+  "FIntFontSizePadding": "2",
+
   "FStringGetPlayerImageDefaultTimeout": "1",
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
 
