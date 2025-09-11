@@ -170,7 +170,6 @@
       "FFlagMessageBusCallOptimization": "True",
       "FFlagMouseGetPartOptimization": "True",
       "FFlagNewCameraControls_SpeedAdjustEnum": "False",
-      "FFlagNewLightAttenuation": "True",
       "FFlagNextGenReplicatorEnabledRead2": "True",
       "FFlagOcclusionCullingBetaFeature": "True",
       "FFlagOnlyDecrementCompletenessIfReplicating": "True",
