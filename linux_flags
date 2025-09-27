@@ -206,6 +206,7 @@
       "FIntActivatedCountTimerMSKeyboard": "0",
       "FIntActivatedCountTimerMSMouse": "0",
       "FIntCameraMaxZoomDistance": "2147483647",
+      "FIntCLI20390_2": "0",
       "FIntDirectionalAttenuationMaxPoints": "0",
       "FIntEnableCullableScene2HundredthPercent3": "1000",
       "FIntFRMMaxGrassDistance": "0",
