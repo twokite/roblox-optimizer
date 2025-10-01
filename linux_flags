@@ -152,7 +152,7 @@
         "DISABLED_FIntTerrainArraySliceSize": "0",
         "DISABLED_FStringDebugShowFlagState": "ChannelName",
         "FFlagAdServiceEnabled": "False",
-        "FFlagAddUILessMode": "Fales",
+        "FFlagAddUILessMode": "False",
         "FFlagAssetPreloadingIXP": "True",
         "FFlagBetaBadgeLearnMoreLinkFormview": "False",
         "FFlagChatTranslationEnableSystemMessage": "False",
