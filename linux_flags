@@ -198,6 +198,7 @@
         "FFlagMessageBusCallOptimization": "True",
         "FFlagMouseGetPartOptimization": "True",
         "FFlagMovePrerender": "True",
+        "FFlagMovePrerender2": "True",
         "FFlagNewCameraControls_SpeedAdjustEnum": "False",
         "FFlagNextGenReplicatorEnabledRead2": "True",
         "FFlagOcclusionCullingBetaFeature": "True",
