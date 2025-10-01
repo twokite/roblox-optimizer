@@ -1,10 +1,11 @@
 {
     "allow_gamepad_permission": true,
     "close_on_leave": false,
-    "discord_rpc_enabled": false,
+    "discord_rpc_enabled": true,
     "enable_gamemode": true,
     "enable_hidpi": true,
     "fflags": {
+        "FFlagMovePrerender": "True",
         "DFFlagAcceleratorUpdateOnPropsAndValueTimeChange": "True",
         "DFFlagAnimationThrottlingInertialization": "True",
         "DFFlagAudioEnableVolumetricPanningForMeshes": "True",
