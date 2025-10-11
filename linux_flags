@@ -19,7 +19,6 @@
         "DFIntNumFramesAllowedToBeAboveError": "0",
         "DFIntParallelAdaptiveInterpolationBatchCount": "1",
         "DFIntPerformanceControlFrameTimeMax": "1",
-        "DFIntRakNetClockDriftAdjustmentPerPingMillisecond": "2147483647",
         "DFIntRakNetNakResendDelayMs": "1",
         "DFIntRakNetNakResendDelayMsMax": "1",
         "DFIntRakNetPingFrequencyMillisecond": "1",
