@@ -16,8 +16,6 @@
         "DFIntMaxProcessPacketsJobScaling": "2147483647",
         "DFIntMaxProcessPacketsStepsAccumulated": "0",
         "DFIntMaxProcessPacketsStepsPerCyclic": "2147483647",
-        "DFIntNumFramesAllowedToBeAboveError": "0",
-        "DFIntParallelAdaptiveInterpolationBatchCount": "1",
         "DFIntPerformanceControlFrameTimeMax": "1",
         "DFIntRakNetNakResendDelayMs": "1",
         "DFIntRakNetNakResendDelayMsMax": "1",
@@ -36,7 +34,7 @@
         "FFlagExample": true,
         "FFlagVoiceBetaBadge": "False",
         "FIntCLI20390_2": "0",
-        "FIntFontSizePadding": "3",
+        "FIntFontSizePadding": "3"
     },
     "server_location_indicator_enabled": true,
     "touch_mode": "off",
