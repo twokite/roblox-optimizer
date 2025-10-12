@@ -22,6 +22,7 @@
         "DFIntRakNetPingFrequencyMillisecond": "1",
         "DFIntRakNetResendRttMultiple": "1",
         "DFIntRakNetSelectTimeoutMs": "1",
+        "DFIntSecondsBetweenDynamicVariableReloading": "2147483647",
         "DFIntTaskSchedulerTargetFps": "1500",
         "FFlagDebugDisableTelemetryEphemeralCounter": "True",
         "FFlagDebugDisableTelemetryEphemeralStat": "True",
