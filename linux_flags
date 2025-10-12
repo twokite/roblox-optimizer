@@ -11,7 +11,6 @@
         "DFIntS2PhysicsSenderRate": "2147483647",
         "DFIntCodecMaxIncomingPackets": "2147483647",
         "DFIntCodecMaxOutgoingFrames": "2147483647",
-        "DFIntConnectionMTUSize": "1392",
         "DFIntMaxFrameBufferSize": "4",
         "DFIntMaxProcessPacketsJobScaling": "2147483647",
         "DFIntMaxProcessPacketsStepsAccumulated": "0",
