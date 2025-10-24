@@ -5,6 +5,7 @@
     "enable_gamemode": true,
     "enable_hidpi": true,
     "fflags": {
+        "DFFlagDebugPerfMode": "True",
         "DFFlagSimSkipLowVelocityWakes": "True",
         "DFIntCanHideGuiGroupId": "32806861",
         "DFIntMaxFrameBufferSize": "4",
@@ -18,6 +19,7 @@
         "DFIntTaskSchedulerJobInGameThreads": "16",
         "DFIntTaskSchedulerTargetFps": "4000",
         "FFlagDebugVulkanDisablePreRotate": "True",
+        "FFlagDebugDisableOTAMaterialTexture": "True",
         "FFlagDebugDisableTelemetryEphemeralCounter": "True",
         "FFlagDebugDisableTelemetryEphemeralStat": "True",
         "FFlagDebugDisableTelemetryEventIngest": "True",
@@ -26,6 +28,7 @@
         "FFlagDebugDisableTelemetryV2Event": "True",
         "FFlagDebugDisableTelemetryV2Stat": "True",
         "FFlagFiberAwareRenderEvent": "True",
+        "FFlagUserBetterInertialScrolling": "True",
         "FFlagReactSchedulerEnableDeferredWork": "True",
         "FFlagRenderEnableGlobalInstancingVulkan": "True",
         "FFlagVoiceBetaBadge": "False",
