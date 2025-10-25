@@ -36,6 +36,7 @@
         "FFlagOpenTelemetryEnabled2": "False",
         "FFlagPropertiesEnableTelemetry": "False",
         "FFlagReactSchedulerEnableDeferredWork": "True",
+        "FFlagRemoveMeInParent2": "False",
         "FFlagRenderEnableGlobalInstancingVulkan": "True",
         "FFlagSkyUseRGBEEncoding": "True",
         "FFlagUserBetterInertialScrolling": "True",
