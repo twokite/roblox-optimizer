@@ -38,7 +38,7 @@
         "FFlagReactSchedulerEnableDeferredWork": "True",
         "FFlagRemoveMeInParent2": "False",
         "FFlagRenderEnableGlobalInstancingVulkan": "True",
-        "FFlagSkyUseRGBEEncoding": "True",
+        "FFlagSkyUseRGBEEncoding_DES": "True",
         "FFlagUserBetterInertialScrolling": "True",
         "FFlagVoiceBetaBadge": "False",
         "FIntCLI20390_2": "0",
