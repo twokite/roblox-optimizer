@@ -10,10 +10,17 @@
         "DFFlagDebugPerfMode": "True",
         "DFFlagSimLocalBallSocketInterpolation": "True",
         "DFFlagSimSkipLowVelocityWakes": "True",
-
+    
         "DFIntCanHideGuiGroupId": "32806861",
         "DFIntCheckPVDifferencesForInterpolationMinRotVelThresholdRadsPerSecHundredth": "0",
         "DFIntCheckPVDifferencesForInterpolationMinVelThresholdStudsPerSecHundredth": "0",
+        "DFIntClientPacketExcessMicroseconds": "10000000",
+        "DFIntClientPacketHealthyAllocationPercent": "75",
+        "DFIntClientPacketHealthyMsPerSecondLimit": "1",
+        "DFIntClientPacketMaxDelayMs": "1",
+        "DFIntClientPacketMaxFrameMicroseconds": "1047483647",
+        "DFIntClientPacketMinMicroseconds": "100000000",
+        "DFIntClientPacketUnhealthyContEscMsPerSecond": "10000",
         "DFIntGameplayNetInterpolationDistanceCorrectionSampleMillionth": "1000000",
         "DFIntInterpolationFramePositionThresholdMillionth": "1",
         "DFIntInterpolationFrameRotVelocityThresholdMillionth": "1",
@@ -25,6 +32,11 @@
         "DFIntMaxAverageFrameDelayExceedFactor": "0",
         "DFIntMaxFrameBufferSize": "4",
         "DFIntMaxInterpolationRecursionsBeforeCheck": "50",
+        "DFIntMaxProcessPacketsJobScaling": "5000000",
+        "DFIntMaxProcessPacketsStepsAccumulated": "0",
+        "DFIntMaxProcessPacketsStepsPerCyclic": "1047483647",
+        "DFIntMaxWaitTimeBeforeForcePacketProcessMS": "1",
+        "DFIntNetworkStopProducingPacketsToProcessThresholdMs": "0",
         "DFIntNumFramesToKeepAfterInterpolation": "4",
         "DFIntParallelAdaptiveInterpolationBatchCount": "8",
         "DFIntParallelAdaptiveInterpolationCutoff": "4",
@@ -36,6 +48,8 @@
         "DFIntRuntimeConcurrency": "16",
         "DFIntSecondsBetweenDynamicVariableReloading": "2147483647",
         "DFIntTargetTimeDelayFacctorTenths": "11",
+        "DFIntTaskSchedulerAsyncTasksMinimumThreadCount": "6",
+        "DFIntTaskSchedulerAutoThreadLimit": "16",
         "DFIntTaskSchedulerJobInGameExecFreqMax": "1147483647",
         "DFIntTaskSchedulerJobInGameExecFreqMin": "947483647",
         "DFIntTaskSchedulerJobInGameThreads": "8",
@@ -43,9 +57,8 @@
         "DFIntTaskSchedulerJobInitExecFreqMin": "747483647",
         "DFIntTaskSchedulerJobInitThreads": "15",
         "DFIntTaskSchedulerTargetFps": "4000",
-
         "DFStringTelemetryV2Url": "0.0.0.0",
-
+    
         "FFlagDebugDisableOTAMaterialTexture": "True",
         "FFlagDebugDisableTelemetryEphemeralCounter": "True",
         "FFlagDebugDisableTelemetryEphemeralStat": "True",
@@ -68,7 +81,7 @@
         "FFlagSkyUseRGBEEncoding_DES": "True",
         "FFlagUserBetterInertialScrolling": "True",
         "FFlagVoiceBetaBadge": "False",
-
+    
         "FIntCameraMaxZoomDistance": "9999",
         "FIntCLI20390_2": "0",
         "FIntFontSizePadding": "3",
